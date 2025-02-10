@@ -62,7 +62,7 @@ const Navbar = () => {
                 >
                   <ul className="py-2">
                     <li className="px-4 py-2 hover:bg-gray-100 black cursor-pointer">
-                      Option s
+                      Option ss
                     </li>
                     <li className="px-4 py-2 hover:bg-gray-100 black cursor-pointer">
                       Option 2
